@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+future resume template: "Welcome to my blog this is a training exercise"
 ---
 
-I'm glad you are here. I plan to talk about ...
+goal is to create an online resume
